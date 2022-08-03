@@ -3,3 +3,4 @@ let anotherFeature: string = "This is another feature";
 let aThirdFeature: boolean = true;
 console.log(`${newFeature} and im cool`);
 let conflict = false;
+let temps: number = 55;
